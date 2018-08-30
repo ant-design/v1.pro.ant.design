@@ -3339,6 +3339,7 @@ mark {
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
   display: block;
+  pointer-events: none;
 }
 @-webkit-keyframes waveEffect {
   100% {
